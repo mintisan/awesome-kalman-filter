@@ -10,6 +10,8 @@
 ## Book
 
 - [Kalman and Bayesian Filters in Python](https://elec3004.uqcloud.net/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf)
+- [Kalman Filter Made Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
+- [Unscented Kalman Filter Made Easy](https://thekalmanfilter.com/unscented-kalman-filter-made-easy/)
 
 ## Paper
 
