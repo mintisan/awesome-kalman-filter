@@ -42,7 +42,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Paper
 
-- 1960-Kalman Filter
+- 1960-Kalman Filter-[A New Approach to Linear Filtering and Prediction Problems](https://www.unitedthc.com/DSP/Kalman1960.pdf)
 - 1985-Extended Kalman Filter
 - 1997-Unscented Kalman Filter
 - 2002-Square Root Uncented Kalman Filter
