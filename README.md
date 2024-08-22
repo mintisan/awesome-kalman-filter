@@ -15,6 +15,8 @@
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 - [Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
 - [YouTube-Kalman Filter for Beginners, Part 1 - Recursive Filters & MATLAB Examples](https://www.youtube.com/watch?v=HCd-leV8OkU)
+- [Tutorial: Understanding Nonlinear Kalman Filters, Part I: Selection between EKF and UKF](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-i)
+- [Tutorial: Understanding Nonlinear Kalman Filters, Part II: An Implementation Guide](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-ii)
 
 ## Book
 
