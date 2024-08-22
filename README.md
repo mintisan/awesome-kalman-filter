@@ -30,6 +30,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [YouTube-Kalman Filter for Beginners, Part 1 - Recursive Filters & MATLAB Examples](https://www.youtube.com/watch?v=HCd-leV8OkU)
 - [Tutorial: Understanding Nonlinear Kalman Filters, Part I: Selection between EKF and UKF](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-i)
 - [Tutorial: Understanding Nonlinear Kalman Filters, Part II: An Implementation Guide](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-ii)
+- [The Unscented Kalman Filter, simply the best! Python code](https://jgoslinski.medium.com/the-unscented-kalman-filter-simply-the-best-python-code-5cd5ebaebf5f)
 
 ## Book
 
