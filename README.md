@@ -12,6 +12,7 @@
 - [The Unscented Kalman Filter for Nonlinear Estimation](https://groups.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
 - [A Step by Step Mathematical Derivation and Tutorial on Kalman Filters](https://arxiv.org/abs/1910.03558)
 - [Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
+- [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ## Book
 
