@@ -8,6 +8,7 @@
 - [Understanding and Applying Kalman Filtering](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/kalman/kleeman_understanding_kalman.pdf)
 - [A Brief Tutorial on the Ensemble Kalman Filter](https://arxiv.org/abs/0901.3725)
 - [An Elementary Introduction to Kalman Filtering](https://arxiv.org/abs/1710.04055)
+- [Unscented Kalman Filter Tutorial](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Unscented-Kalman-Filter/attachment/5a3401d34cde266d587b4efd/AS%3A571878130622464%401513357779148/download/Tutorial+UKF.pdf)
 
 ## Book
 
