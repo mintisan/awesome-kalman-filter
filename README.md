@@ -9,12 +9,15 @@
 - [A Brief Tutorial on the Ensemble Kalman Filter](https://arxiv.org/abs/0901.3725)
 - [An Elementary Introduction to Kalman Filtering](https://arxiv.org/abs/1710.04055)
 - [Unscented Kalman Filter Tutorial](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Unscented-Kalman-Filter/attachment/5a3401d34cde266d587b4efd/AS%3A571878130622464%401513357779148/download/Tutorial+UKF.pdf)
+- [The Unscented Kalman Filter for Nonlinear Estimation](https://groups.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
 
 ## Book
 
 - [Kalman and Bayesian Filters in Python](https://elec3004.uqcloud.net/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf)
 - [Kalman Filter Made Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
 - [Unscented Kalman Filter Made Easy](https://thekalmanfilter.com/unscented-kalman-filter-made-easy/)
+- [Introduction and Implementations of the Kalman Filter](https://www.intechopen.com/books/7466)
+  - [Introduction to Kalman Filter and Its Applications](https://www.intechopen.com/chapters/63164)
 
 ## Paper
 
