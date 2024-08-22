@@ -53,3 +53,4 @@
 - [shazraz/Unscented-Kalman-Filter](https://github.com/shazraz/Unscented-Kalman-Filter) : UKF implementation in C++ using noisy LIDAR and RADAR data for object tracking | C++ | ![Github stars](https://img.shields.io/github/stars/shazraz/Unscented-Kalman-Filter.svg)
 - [sfwa/ukf](https://github.com/sfwa/ukf) : Unscented Kalman Filter library for state and parameter estimation | C++ | ![Github stars](https://img.shields.io/github/stars/sfwa/ukf.svg)
 - [ivo-georgiev/ukfLib](https://github.com/ivo-georgiev/ukfLib) : Unscented Kalman filter C library | C | ![Github stars](https://img.shields.io/github/stars/ivo-georgiev/ukfLib.svg)
+- [Moment-based Kalman Filter: Nonlinear Kalman Filtering with Exact Moment Propagation](https://github.com/purewater0901/MKF) | C++ | ![Github stars](https://img.shields.io/github/stars/purewater0901/MKF.svg)
