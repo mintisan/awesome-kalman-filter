@@ -5,6 +5,7 @@
 ## Tutorial
 
 - [An Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
+- [Understanding and Applying Kalman Filtering](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/kalman/kleeman_understanding_kalman.pdf)
 
 ## Book
 
