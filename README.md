@@ -8,7 +8,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Table of Contents
 
 - [Awesome Kalman Filter(KF)](#awesome-kalman-filter)
-  - [Table of Contents](#table-of-contents)
   - [Tutorial](#tutorial)
   - [Book](#book)
   - [Paper](#paper)
