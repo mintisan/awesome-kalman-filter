@@ -4,6 +4,7 @@
 
 ## Tutorial
 
+- [An Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
 
 ## Book
 
