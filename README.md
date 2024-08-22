@@ -26,10 +26,10 @@
 
 ## Paper
 
-1960-Kalman Filter
-1985-Extended Kalman Filter
-1997-Unscented Kalman Filter
-2002-Square Root Uncented Kalman Filter
+- 1960-Kalman Filter
+- 1985-Extended Kalman Filter
+- 1997-Unscented Kalman Filter
+- 2002-Square Root Uncented Kalman Filter
 
 
 ## Code
