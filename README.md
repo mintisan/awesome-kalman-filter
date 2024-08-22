@@ -32,6 +32,7 @@
 - 1985-Extended Kalman Filter
 - 1997-Unscented Kalman Filter
 - 2002-Square Root Uncented Kalman Filter
+- 2003-Ensemble Kalman Filter
 - 2009-Cubature Kalman Filters
 
 
