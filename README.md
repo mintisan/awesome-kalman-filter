@@ -11,6 +11,7 @@
 - [Unscented Kalman Filter Tutorial](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Unscented-Kalman-Filter/attachment/5a3401d34cde266d587b4efd/AS%3A571878130622464%401513357779148/download/Tutorial+UKF.pdf)
 - [The Unscented Kalman Filter for Nonlinear Estimation](https://groups.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
 - [A Step by Step Mathematical Derivation and Tutorial on Kalman Filters](https://arxiv.org/abs/1910.03558)
+- [Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
 
 ## Book
 
