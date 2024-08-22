@@ -13,6 +13,7 @@
 - [A Step by Step Mathematical Derivation and Tutorial on Kalman Filters](https://arxiv.org/abs/1910.03558)
 - [Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
 
 ## Book
 
