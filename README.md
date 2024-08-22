@@ -26,6 +26,12 @@
 
 ## Paper
 
+1960-Kalman Filter
+1985-Extended Kalman Filter
+1997-Unscented Kalman Filter
+2002-Square Root Uncented Kalman Filter
+
+
 ## Code
 
 - [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) : This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope | C++ | ![Github stars](https://img.shields.io/github/stars/TKJElectronics/KalmanFilter.svg)
