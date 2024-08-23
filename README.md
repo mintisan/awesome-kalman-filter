@@ -77,6 +77,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### PaperWithCode
 
+- 1999-[Robust estimation with unknown noise statistics](https://ieeexplore.ieee.org/abstract/document/769393) | [code-milsto/robust-kalman](https://github.com/milsto/robust-kalman)
 - 2019-[Adaptive Kalman filter for detectable linear time invariant systems](https://sites.utexas.edu/renato/files/2019/03/main.pdf) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.2514/1.G004359)](https://juleskreuer.eu/citation-badge/) | [code](https://github.com/BenGravell/adaptive-kalman-filter)
 
 ## Code
