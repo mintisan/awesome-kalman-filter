@@ -14,6 +14,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
     - [Implement](#implement)
     - [Survey](#survey)
   - [Code](#code)
+    - [C](#c)
+    - [C++](#c++)
+    - [Python](#python)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -65,25 +68,37 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Code
 
-- [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) : This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope | C++ | ![Github stars](https://img.shields.io/github/stars/TKJElectronics/KalmanFilter.svg)
-- [denyssene/SimpleKalmanFilter](https://github.com/denyssene/SimpleKalmanFilter) : A basic implementation of Kalman Filter for single variable models. | C++ | ![Github stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg)
-- [udacity/CarND-Unscented-Kalman-Filter-Project](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project) : Self-Driving Car Nanodegree Program Starter Code for the Unscented Kalman Filter Project| C++ | ![Github stars](https://img.shields.io/github/stars/udacity/CarND-Unscented-Kalman-Filter-Project.svg)
-- [sharathsrini/Kalman-Filter-for-Sensor-Fusion](https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion) : A Sensor Fusion Algorithm that can predict a State Estimate and Update if it is uncertain | Python | ![Github stars](https://img.shields.io/github/stars/sharathsrini/Kalman-Filter-for-Sensor-Fusion.svg)
-- [sunsided/libfixkalman](https://github.com/sunsided/libfixkalman) : Kalman filter fixed-point implementation based on libfixmatrix, targeted at embedded systems without an FPU and/or need for performance. | C | ![Github stars](https://img.shields.io/github/stars/sunsided/libfixkalman.svg)
+
+### C
+
+- [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) : Lightweight C/C++ Extended Kalman Filter with Python for prototyping | C/Python | ![Github stars](https://img.shields.io/github/stars/simondlevy/TinyEKF.svg)
 - [sunsided/kalman-clib](https://github.com/sunsided/kalman-clib) : Microcontroller targeted C library for Kalman filtering | C | ![Github stars](https://img.shields.io/github/stars/sunsided/kalman-clib.svg)
 - [dr-duplo/eekf](https://github.com/dr-duplo/eekf) : C-Implementation of an Extended Kalman Filter for use in embedded applications | C | ![Github stars](https://img.shields.io/github/stars/dr-duplo/eekf.svg)
-- [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) : Lightweight C/C++ Extended Kalman Filter with Python for prototyping | C/Python | ![Github stars](https://img.shields.io/github/stars/simondlevy/TinyEKF.svg)
+- [commaai/rednose](https://github.com/commaai/rednose) : Kalman filter library | Python/C/C++ | ![Github stars](https://img.shields.io/github/stars/commaai/rednose.svg)
+- [ivo-georgiev/ukfLib](https://github.com/ivo-georgiev/ukfLib) : Unscented Kalman filter C library | C | ![Github stars](https://img.shields.io/github/stars/ivo-georgiev/ukfLib.svg)
+- [sunsided/libfixkalman](https://github.com/sunsided/libfixkalman) : Kalman filter fixed-point implementation based on libfixmatrix, targeted at embedded systems without an FPU and/or need for performance. | C | ![Github stars](https://img.shields.io/github/stars/sunsided/libfixkalman.svg)
+
+### C++
+
+- [sharathsrini/Kalman-Filter-for-Sensor-Fusion](https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion) : A Sensor Fusion Algorithm that can predict a State Estimate and Update if it is uncertain | Python | ![Github stars](https://img.shields.io/github/stars/sharathsrini/Kalman-Filter-for-Sensor-Fusion.svg)
+- [pronenewbits/Embedded_EKF_Library](https://github.com/pronenewbits/Embedded_EKF_Library) : A compact Extended Kalman Filter (EKF) library for real time embedded system (with template for Teensy4/Arduino and STM32CubeIDE) | C++ | ![Github stars](https://img.shields.io/github/stars/pronenewbits/Embedded_EKF_Library.svg)
+- [Moment-based Kalman Filter: Nonlinear Kalman Filtering with Exact Moment Propagation](https://github.com/purewater0901/MKF) | C++ | ![Github stars](https://img.shields.io/github/stars/purewater0901/MKF.svg)
+- [kam3k/unscented](https://github.com/kam3k/unscented) : A flexible and powerful unscented Kalman filter C++11 library that makes no assumptions about what you're estimating or how you're measuring it. | C++ | ![Github stars](https://img.shields.io/github/stars/kam3k/unscented.svg)
+- [sfwa/ukf](https://github.com/sfwa/ukf) : Unscented Kalman Filter library for state and parameter estimation | C++ | ![Github stars](https://img.shields.io/github/stars/sfwa/ukf.svg)
+- [shazraz/Unscented-Kalman-Filter](https://github.com/shazraz/Unscented-Kalman-Filter) : UKF implementation in C++ using noisy LIDAR and RADAR data for object tracking | C++ | ![Github stars](https://img.shields.io/github/stars/shazraz/Unscented-Kalman-Filter.svg)
+- [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) : Implementation of an EKF in C++ | C++ | ![Github stars](https://img.shields.io/github/stars/shazraz/Extended-Kalman-Filter.svg)
+- [JunshengFu/tracking-with-Unscented-Kalman-Filter](https://github.com/JunshengFu/tracking-with-Unscented-Kalman-Filter) : Object (e.g Pedestrian, biker, vehicles) tracking by Unscented Kalman Filter (UKF), with fused data from both lidar and radar sensors. | C++ | ![Github stars](https://img.shields.io/github/stars/JunshengFu/tracking-with-Unscented-Kalman-Filter.svg)
+- [udacity/CarND-Unscented-Kalman-Filter-Project](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project) : Self-Driving Car Nanodegree Program Starter Code for the Unscented Kalman Filter Project| C++ | ![Github stars](https://img.shields.io/github/stars/udacity/CarND-Unscented-Kalman-Filter-Project.svg)
+- [denyssene/SimpleKalmanFilter](https://github.com/denyssene/SimpleKalmanFilter) : A basic implementation of Kalman Filter for single variable models. | C++ | ![Github stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg)
+- [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) : This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope | C++ | ![Github stars](https://img.shields.io/github/stars/TKJElectronics/KalmanFilter.svg)
+
+### Python
+
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/Kalman-and-Bayesian-Filters-in-Python.svg)
 - [rlabbe/filterpy](https://github.com/rlabbe/filterpy) : Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'. | Python
 - [pykalman/pykalman](https://github.com/pykalman/pykalman) : Kalman Filter, Smoother, and EM Algorithm for Python | Python | ![Github stars](https://img.shields.io/github/stars/pykalman/pykalman.svg)
-- [commaai/rednose](https://github.com/commaai/rednose) : Kalman filter library | Python/C/C++ | ![Github stars](https://img.shields.io/github/stars/commaai/rednose.svg)
-- [JunshengFu/tracking-with-Unscented-Kalman-Filter](https://github.com/JunshengFu/tracking-with-Unscented-Kalman-Filter) : Object (e.g Pedestrian, biker, vehicles) tracking by Unscented Kalman Filter (UKF), with fused data from both lidar and radar sensors. | C++ | ![Github stars](https://img.shields.io/github/stars/JunshengFu/tracking-with-Unscented-Kalman-Filter.svg)
-- [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) : Implementation of an EKF in C++ | C++ | ![Github stars](https://img.shields.io/github/stars/shazraz/Extended-Kalman-Filter.svg)
-- [shazraz/Unscented-Kalman-Filter](https://github.com/shazraz/Unscented-Kalman-Filter) : UKF implementation in C++ using noisy LIDAR and RADAR data for object tracking | C++ | ![Github stars](https://img.shields.io/github/stars/shazraz/Unscented-Kalman-Filter.svg)
-- [sfwa/ukf](https://github.com/sfwa/ukf) : Unscented Kalman Filter library for state and parameter estimation | C++ | ![Github stars](https://img.shields.io/github/stars/sfwa/ukf.svg)
-- [ivo-georgiev/ukfLib](https://github.com/ivo-georgiev/ukfLib) : Unscented Kalman filter C library | C | ![Github stars](https://img.shields.io/github/stars/ivo-georgiev/ukfLib.svg)
-- [Moment-based Kalman Filter: Nonlinear Kalman Filtering with Exact Moment Propagation](https://github.com/purewater0901/MKF) | C++ | ![Github stars](https://img.shields.io/github/stars/purewater0901/MKF.svg)
-- [kam3k/unscented](https://github.com/kam3k/unscented) : A flexible and powerful unscented Kalman filter C++11 library that makes no assumptions about what you're estimating or how you're measuring it. | C++ | ![Github stars](https://img.shields.io/github/stars/kam3k/unscented.svg)
+
+
 
 ## Contributing
 
