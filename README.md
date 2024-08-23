@@ -52,22 +52,22 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ### Classical
 
 - 1985-Extended Kalman Filter-[Discovery of the Kalman Filter as a Practical Tool for Aerospace and Industry](https://ntrs.nasa.gov/api/citations/19860003843/downloads/19860003843.pdf)
-- 1997-Unscented Kalman Filter-[A New Extension of the Kalman Filter to Nonlinear Systems](https://www.cs.unc.edu/~welch/kalman/media/pdf/Julier1997_SPIE_KF)
-- 2002-Square Root Uncented Kalman Filter-[The square-root unscented Kalman filter for state and parameter-estimation](https://ieeexplore.ieee.org/document/940586)
-- 2003-Ensemble Kalman Filter-[The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation](https://www.ecmwf.int/sites/default/files/elibrary/2003/9321-ensemble-kalman-filter-theoretical-formulation-and-practical-implementation.pdf)
-- 2009-Cubature Kalman Filters-[Cubature Kalman Filters](https://ieeexplore.ieee.org/document/4982682)
+- 1997-Unscented Kalman Filter-[A New Extension of the Kalman Filter to Nonlinear Systems](https://www.cs.unc.edu/~welch/kalman/media/pdf/Julier1997_SPIE_KF) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1117/12.280797)](https://juleskreuer.eu/citation-badge/)
+- 2002-Square Root Uncented Kalman Filter-[The square-root unscented Kalman filter for state and parameter-estimation](https://ieeexplore.ieee.org/document/940586) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/ICASSP.2001.940586)](https://juleskreuer.eu/citation-badge/)
+- 2003-Ensemble Kalman Filter-[The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation](https://www.ecmwf.int/sites/default/files/elibrary/2003/9321-ensemble-kalman-filter-theoretical-formulation-and-practical-implementation.pdf) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/s10236-003-0036-9)](https://juleskreuer.eu/citation-badge/)
+- 2009-Cubature Kalman Filters-[Cubature Kalman Filters](https://ieeexplore.ieee.org/document/4982682) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TAC.2009.2019800)](https://juleskreuer.eu/citation-badge/)
 
 ### Implement
 
-- 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810)
+- 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s17122810)](https://juleskreuer.eu/citation-badge/)
 - 2022-[Implementation of a C Library of Kalman Filters for Application on Embedded Systems](https://www.mdpi.com/2073-431X/11/11/165) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/computers11110165)](https://juleskreuer.eu/citation-badge/)
 
 ### Survey
 
-- 2016-[A comparative study and review of different Kalman filters by applying an enhanced validation method](https://www.sciencedirect.com/science/article/abs/pii/S2352152X16302031)
-- 2021-[A Survey of Kalman Filter Algorithms and Variants in State Estimation](https://www.researchgate.net/publication/353897085_A_Survey_of_Kalman_Filter_Algorithms_and_Variants_in_State_Estimation)
-- 2021-[Research Article Kalman Filter: Historical Overview and Review of Its Use in Robotics 60 Years after Its Creation](https://onlinelibrary.wiley.com/doi/10.1155/2021/9674015)
-- 2023-[State of art on state estimation: Kalman filter driven by machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000731)
+- 2016-[A comparative study and review of different Kalman filters by applying an enhanced validation method](https://www.sciencedirect.com/science/article/abs/pii/S2352152X16302031) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.est.2016.10.004)](https://juleskreuer.eu/citation-badge/)
+- 2021-[A Survey of Kalman Filter Algorithms and Variants in State Estimation](https://www.researchgate.net/publication/353897085_A_Survey_of_Kalman_Filter_Algorithms_and_Variants_in_State_Estimation) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.9734/bpi/castr/v15/11912D)](https://juleskreuer.eu/citation-badge/)
+- 2021-[Research Article Kalman Filter: Historical Overview and Review of Its Use in Robotics 60 Years after Its Creation](https://onlinelibrary.wiley.com/doi/10.1155/2021/9674015) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1155/2021/9674015)](https://juleskreuer.eu/citation-badge/)
+- 2023-[State of art on state estimation: Kalman filter driven by machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000731) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.arcontrol.2023.100909)](https://juleskreuer.eu/citation-badge/)
 
 ## Code
 
