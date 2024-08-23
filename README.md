@@ -92,7 +92,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### C++
 
-- [sharathsrini/Kalman-Filter-for-Sensor-Fusion](https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion) : A Sensor Fusion Algorithm that can predict a State Estimate and Update if it is uncertain | Python | ![Github stars](https://img.shields.io/github/stars/sharathsrini/Kalman-Filter-for-Sensor-Fusion.svg)
+- [mherb/kalman](https://github.com/mherb/kalman) : Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3  | C++ | ![Github stars](https://img.shields.io/github/stars/mherb/kalman.svg)
 - [pronenewbits/Embedded_EKF_Library](https://github.com/pronenewbits/Embedded_EKF_Library) : A compact Extended Kalman Filter (EKF) library for real time embedded system (with template for Teensy4/Arduino and STM32CubeIDE) | C++ | ![Github stars](https://img.shields.io/github/stars/pronenewbits/Embedded_EKF_Library.svg)
 - [pronenewbits/Embedded_UKF_Library](https://github.com/pronenewbits/Embedded_UKF_Library) : A compact Unscented Kalman Filter (UKF) library for Teensy4/Arduino system (or any real time embedded system in general) | C++ | ![Github stars](https://img.shields.io/github/stars/pronenewbits/Embedded_UKF_Library.svg)
 - [Moment-based Kalman Filter: Nonlinear Kalman Filtering with Exact Moment Propagation](https://github.com/purewater0901/MKF) | C++ | ![Github stars](https://img.shields.io/github/stars/purewater0901/MKF.svg)
@@ -108,6 +108,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### Python
 
+- [sharathsrini/Kalman-Filter-for-Sensor-Fusion](https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion) : A Sensor Fusion Algorithm that can predict a State Estimate and Update if it is uncertain | Python | ![Github stars](https://img.shields.io/github/stars/sharathsrini/Kalman-Filter-for-Sensor-Fusion.svg)
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/Kalman-and-Bayesian-Filters-in-Python.svg)
 - [rlabbe/filterpy](https://github.com/rlabbe/filterpy) : Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/filterpy.svg)
 - [pykalman/pykalman](https://github.com/pykalman/pykalman) : Kalman Filter, Smoother, and EM Algorithm for Python | Python | ![Github stars](https://img.shields.io/github/stars/pykalman/pykalman.svg)
