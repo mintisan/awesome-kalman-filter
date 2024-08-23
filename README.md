@@ -48,8 +48,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Paper
 
-- 1960-Kalman Filter-[A New Approach to Linear Filtering and Prediction Problems](https://www.unitedthc.com/DSP/Kalman1960.pdf)
-
+- 1960-Kalman Filter-[A New Approach to Linear Filtering and Prediction Problems](https://www.unitedthc.com/DSP/Kalman1960.pdf) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1115/1.3662552)](https://juleskreuer.eu/citation-badge/)
 ### Classical
 
 - 1985-Extended Kalman Filter-[Discovery of the Kalman Filter as a Practical Tool for Aerospace and Industry](https://ntrs.nasa.gov/api/citations/19860003843/downloads/19860003843.pdf)
@@ -61,7 +60,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ### Implement
 
 - 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810)
-- 2022-[Implementation of a C Library of Kalman Filters for Application on Embedded Systems](https://www.mdpi.com/2073-431X/11/11/165)
+- 2022-[Implementation of a C Library of Kalman Filters for Application on Embedded Systems](https://www.mdpi.com/2073-431X/11/11/165) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/computers11110165)](https://juleskreuer.eu/citation-badge/)
 
 ### Survey
 
