@@ -12,7 +12,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
   - [Book](#book)
   - [Paper](#paper)
     - [Classical](#classical)
-    - [Implement](#implement)
+    - [Implementation](#implementtion)
     - [Survey](#survey)
   - [Code](#code)
     - [C](#c)
@@ -57,7 +57,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - 2003-Ensemble Kalman Filter-[The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation](https://www.ecmwf.int/sites/default/files/elibrary/2003/9321-ensemble-kalman-filter-theoretical-formulation-and-practical-implementation.pdf) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/s10236-003-0036-9)](https://juleskreuer.eu/citation-badge/)
 - 2009-Cubature Kalman Filters-[Cubature Kalman Filters](https://ieeexplore.ieee.org/document/4982682) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TAC.2009.2019800)](https://juleskreuer.eu/citation-badge/)
 
-### Implement
+### Implementation
 
 - 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s17122810)](https://juleskreuer.eu/citation-badge/)
 - 2020-[Extended Kalman Filter with Reduced Computational Demands for Systems with Non-Linear Measurement Models](https://www.mdpi.com/1424-8220/20/6/1584) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s20061584)](https://juleskreuer.eu/citation-badge/)
