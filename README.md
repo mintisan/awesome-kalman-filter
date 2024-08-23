@@ -11,6 +11,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
   - [Tutorial](#tutorial)
   - [Book](#book)
   - [Paper](#paper)
+    - [Classical](#classical)
     - [Implement](#implement)
     - [Survey](#survey)
   - [Code](#code)
@@ -48,6 +49,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Paper
 
 - 1960-Kalman Filter-[A New Approach to Linear Filtering and Prediction Problems](https://www.unitedthc.com/DSP/Kalman1960.pdf)
+
+### Classical
+
 - 1985-Extended Kalman Filter-[Discovery of the Kalman Filter as a Practical Tool for Aerospace and Industry](https://ntrs.nasa.gov/api/citations/19860003843/downloads/19860003843.pdf)
 - 1997-Unscented Kalman Filter-[A New Extension of the Kalman Filter to Nonlinear Systems](https://www.cs.unc.edu/~welch/kalman/media/pdf/Julier1997_SPIE_KF)
 - 2002-Square Root Uncented Kalman Filter-[The square-root unscented Kalman filter for state and parameter-estimation](https://ieeexplore.ieee.org/document/940586)
