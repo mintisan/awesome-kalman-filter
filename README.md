@@ -73,6 +73,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - 2021-[Research Article Kalman Filter: Historical Overview and Review of Its Use in Robotics 60 Years after Its Creation](https://onlinelibrary.wiley.com/doi/10.1155/2021/9674015) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1155/2021/9674015)](https://juleskreuer.eu/citation-badge/)
 - 2023-[State of art on state estimation: Kalman filter driven by machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000731) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.arcontrol.2023.100909)](https://juleskreuer.eu/citation-badge/)
 
+### Others
+
+- 2019-[Adaptive Kalman filter for detectable linear time invariant systems](https://sites.utexas.edu/renato/files/2019/03/main.pdf) | [code](https://github.com/BenGravell/adaptive-kalman-filter)
+
 ## Code
 
 
