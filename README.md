@@ -95,6 +95,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [commaai/rednose](https://github.com/commaai/rednose) : Kalman filter library | Python/C/C++ | ![Github stars](https://img.shields.io/github/stars/commaai/rednose.svg)
 - [ivo-georgiev/ukfLib](https://github.com/ivo-georgiev/ukfLib) : Unscented Kalman filter C library | C | ![Github stars](https://img.shields.io/github/stars/ivo-georgiev/ukfLib.svg)
 - [sunsided/libfixkalman](https://github.com/sunsided/libfixkalman) : Kalman filter fixed-point implementation based on libfixmatrix, targeted at embedded systems without an FPU and/or need for performance. | C | ![Github stars](https://img.shields.io/github/stars/sunsided/libfixkalman.svg)
+- [shkolnick-kun/yafl](https://github.com/shkolnick-kun/yafl) : Yet Another Filtering Library for embedded systems C/Python | ![Github stars](https://img.shields.io/github/stars/shkolnick-kun/yafl.svg)
 
 ### C++
 
