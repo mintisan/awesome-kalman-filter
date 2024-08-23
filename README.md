@@ -77,8 +77,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### PaperWithCode
 
+- 1999-[Adaptive Kalman Filtering for INS/GPS](https://link.springer.com/article/10.1007/s001900050236) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/s001900050236)](https://juleskreuer.eu/citation-badge/)  | [SeongchunYang/KF/Schwarz_AUKF.py](https://github.com/SeongchunYang/KF/blob/master/KF/Schwarz_AUKF.py)
 - 1999-[Robust estimation with unknown noise statistics](https://ieeexplore.ieee.org/abstract/document/769393) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/9.769393)](https://juleskreuer.eu/citation-badge/) | [code-milsto/robust-kalman](https://github.com/milsto/robust-kalman)
-- 2018-[A Robust Adaptive Unscented Kalman Filter for Nonlinear Estimation with Uncertain Noise Covariance](https://www.mdpi.com/1424-8220/18/3/808)  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s18030808)](https://juleskreuer.eu/citation-badge/) | [SeongchunYang/KF/Zheng_AUKF.py]([https://github.com/milsto/robust-kalman](https://github.com/SeongchunYang/KF/blob/master/KF/Zheng_AUKF.py))
+- 2009-[An Adaptive Unscented Kalman Filter for Dead Reckoning Systems](https://ieeexplore.ieee.org/document/5365064) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/ICIECS.2009.5365064)](https://juleskreuer.eu/citation-badge/)  | [SeongchunYang/KF/Zhang_AUKF.py](https://github.com/SeongchunYang/KF/blob/master/KF/Zhang_AUKF.py)
+- 2018-[A Robust Adaptive Unscented Kalman Filter for Nonlinear Estimation with Uncertain Noise Covariance](https://www.mdpi.com/1424-8220/18/3/808)  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s18030808)](https://juleskreuer.eu/citation-badge/) | [SeongchunYang/KF/Zheng_AUKF.py](https://github.com/SeongchunYang/KF/blob/master/KF/Zheng_AUKF.py)
 - 2019-[Adaptive Kalman filter for detectable linear time invariant systems](https://sites.utexas.edu/renato/files/2019/03/main.pdf) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.2514/1.G004359)](https://juleskreuer.eu/citation-badge/) | [code-BenGravell/adaptive-kalman-filter](https://github.com/BenGravell/adaptive-kalman-filter)
 
 ## Code
