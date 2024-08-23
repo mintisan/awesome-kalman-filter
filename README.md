@@ -39,6 +39,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Tutorial: Understanding Nonlinear Kalman Filters, Part I: Selection between EKF and UKF](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-i)
 - [Tutorial: Understanding Nonlinear Kalman Filters, Part II: An Implementation Guide](https://yugu.faculty.wvu.edu/research/interactive-robotics-letters/understanding-nonlinear-kalman-filters-part-ii)
 - [The Unscented Kalman Filter, simply the best! Python code](https://jgoslinski.medium.com/the-unscented-kalman-filter-simply-the-best-python-code-5cd5ebaebf5f)
+- [A Fresh Look at the Kalman Filter](https://epubs.siam.org/doi/pdf/10.1137/100799666)
 
 ## Book
 
