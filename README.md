@@ -19,6 +19,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
     - [C](#c)
     - [C++](#c)
     - [Python](#python)
+    - [Matlab](#matlab)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -113,6 +114,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [rlabbe/filterpy](https://github.com/rlabbe/filterpy) : Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/filterpy.svg)
 - [pykalman/pykalman](https://github.com/pykalman/pykalman) : Kalman Filter, Smoother, and EM Algorithm for Python | Python | ![Github stars](https://img.shields.io/github/stars/pykalman/pykalman.svg)
 
+### Matlab
+
+ -[mannyray/KalmanFilter](https://github.com/mannyray/KalmanFilter) : Kalman filter sanctuary - including continuous-discrete extended Kalman filter. Bring additional filters here for a bigger collection. | Matlab/C++/Python | ![Github stars](https://img.shields.io/github/stars/mannyray/KalmanFilter.svg)
 
 
 ## Contributing
