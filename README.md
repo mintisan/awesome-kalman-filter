@@ -116,7 +116,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### Matlab
 
- -[mannyray/KalmanFilter](https://github.com/mannyray/KalmanFilter) : Kalman filter sanctuary - including continuous-discrete extended Kalman filter. Bring additional filters here for a bigger collection. | Matlab/C++/Python | ![Github stars](https://img.shields.io/github/stars/mannyray/KalmanFilter.svg)
+ - [mannyray/KalmanFilter](https://github.com/mannyray/KalmanFilter) : Kalman filter sanctuary - including continuous-discrete extended Kalman filter. Bring additional filters here for a bigger collection. | Matlab/C++/Python | ![Github stars](https://img.shields.io/github/stars/mannyray/KalmanFilter.svg)
 
 
 ## Contributing
