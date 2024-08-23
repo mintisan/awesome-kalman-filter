@@ -62,6 +62,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s17122810)](https://juleskreuer.eu/citation-badge/)
 - 2020-[Extended Kalman Filter with Reduced Computational Demands for Systems with Non-Linear Measurement Models](https://www.mdpi.com/1424-8220/20/6/1584) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/s20061584)](https://juleskreuer.eu/citation-badge/)
 - 2022-[Implementation of a C Library of Kalman Filters for Application on Embedded Systems](https://www.mdpi.com/2073-431X/11/11/165) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/computers11110165)](https://juleskreuer.eu/citation-badge/)
+- 2022-[Optimization of an unscented Kalman filter for an embedded platform](https://www.sciencedirect.com/science/article/abs/pii/S0010482522003493) [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.compbiomed.2022.105557)](https://juleskreuer.eu/citation-badge/)
 
 ### Survey
 
