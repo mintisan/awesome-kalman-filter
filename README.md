@@ -15,7 +15,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
     - [Survey](#survey)
   - [Code](#code)
     - [C](#c)
-    - [C++](#c++)
+    - [C++](#c)
     - [Python](#python)
   - [Contributing](#contributing)
   - [License](#license)
