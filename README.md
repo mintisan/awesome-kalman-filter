@@ -11,6 +11,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
   - [Tutorial](#tutorial)
   - [Book](#book)
   - [Paper](#paper)
+    - [Implement](#implement)
+    - [Survey](#survey)
   - [Code](#code)
   - [Contributing](#contributing)
   - [License](#license)
@@ -49,6 +51,17 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - 2003-Ensemble Kalman Filter-[The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation](https://www.ecmwf.int/sites/default/files/elibrary/2003/9321-ensemble-kalman-filter-theoretical-formulation-and-practical-implementation.pdf)
 - 2009-Cubature Kalman Filters-[Cubature Kalman Filters](https://ieeexplore.ieee.org/document/4982682)
 
+### Implement
+
+- 2017-[A Study about Kalman Filters Applied to Embedded Sensors](https://www.mdpi.com/1424-8220/17/12/2810)
+- 2022-[Implementation of a C Library of Kalman Filters for Application on Embedded Systems](https://www.mdpi.com/2073-431X/11/11/165)
+
+### Survey
+
+- 2016-[A comparative study and review of different Kalman filters by applying an enhanced validation method](https://www.sciencedirect.com/science/article/abs/pii/S2352152X16302031)
+- 2021-[A Survey of Kalman Filter Algorithms and Variants in State Estimation](https://www.researchgate.net/publication/353897085_A_Survey_of_Kalman_Filter_Algorithms_and_Variants_in_State_Estimation)
+- 2021-[Research Article Kalman Filter: Historical Overview and Review of Its Use in Robotics 60 Years after Its Creation](https://onlinelibrary.wiley.com/doi/10.1155/2021/9674015)
+- 2023-[State of art on state estimation: Kalman filter driven by machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000731)
 
 ## Code
 
