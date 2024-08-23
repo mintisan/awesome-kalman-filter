@@ -104,6 +104,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [udacity/CarND-Unscented-Kalman-Filter-Project](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project) : Self-Driving Car Nanodegree Program Starter Code for the Unscented Kalman Filter Project| C++ | ![Github stars](https://img.shields.io/github/stars/udacity/CarND-Unscented-Kalman-Filter-Project.svg)
 - [denyssene/SimpleKalmanFilter](https://github.com/denyssene/SimpleKalmanFilter) : A basic implementation of Kalman Filter for single variable models. | C++ | ![Github stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg)
 - [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) : This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope | C++ | ![Github stars](https://img.shields.io/github/stars/TKJElectronics/KalmanFilter.svg)
+- [artivis/kalmanif](https://github.com/artivis/kalmanif) : A small collection of Kalman Filters on Lie groups | C++ | ![Github stars](https://img.shields.io/github/stars/artivis/kalmanif.svg)
 
 ### Python
 
