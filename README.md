@@ -42,7 +42,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Book
 
-- [Kalman and Bayesian Filters in Python](https://elec3004.uqcloud.net/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf)
+- [**Kalman and Bayesian Filters in Python**](https://elec3004.uqcloud.net/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf)
 - [Kalman Filter Made Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
 - [Unscented Kalman Filter Made Easy](https://thekalmanfilter.com/unscented-kalman-filter-made-easy/)
 - [Introduction and Implementations of the Kalman Filter](https://www.intechopen.com/books/7466)
@@ -109,8 +109,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### Python
 
+- [**rlabbe/Kalman-and-Bayesian-Filters-in-Python**](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/Kalman-and-Bayesian-Filters-in-Python.svg)
 - [sharathsrini/Kalman-Filter-for-Sensor-Fusion](https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion) : A Sensor Fusion Algorithm that can predict a State Estimate and Update if it is uncertain | Python | ![Github stars](https://img.shields.io/github/stars/sharathsrini/Kalman-Filter-for-Sensor-Fusion.svg)
-- [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/Kalman-and-Bayesian-Filters-in-Python.svg)
 - [rlabbe/filterpy](https://github.com/rlabbe/filterpy) : Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'. | Python | ![Github stars](https://img.shields.io/github/stars/rlabbe/filterpy.svg)
 - [pykalman/pykalman](https://github.com/pykalman/pykalman) : Kalman Filter, Smoother, and EM Algorithm for Python | Python | ![Github stars](https://img.shields.io/github/stars/pykalman/pykalman.svg)
 
