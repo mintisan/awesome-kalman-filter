@@ -44,6 +44,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Book
 
 - [**Kalman and Bayesian Filters in Python**](https://elec3004.uqcloud.net/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf)
+- [Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
 - [Kalman Filter Made Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
 - [Unscented Kalman Filter Made Easy](https://thekalmanfilter.com/unscented-kalman-filter-made-easy/)
 - [Introduction and Implementations of the Kalman Filter](https://www.intechopen.com/books/7466)
