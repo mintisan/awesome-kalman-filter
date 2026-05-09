@@ -117,6 +117,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [denyssene/SimpleKalmanFilter](https://github.com/denyssene/SimpleKalmanFilter) : A basic implementation of Kalman Filter for single variable models. | C++ | ![Github stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg)
 - [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) : This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope | C++ | ![Github stars](https://img.shields.io/github/stars/TKJElectronics/KalmanFilter.svg)
 - [artivis/kalmanif](https://github.com/artivis/kalmanif) : A small collection of Kalman Filters on Lie groups | C++ | ![Github stars](https://img.shields.io/github/stars/artivis/kalmanif.svg)
+- [FrancoisCarouge/Kalman](https://github.com/FrancoisCarouge/Kalman) : Generalized Kalman filter library with a variety of filters, examples, type safety, and linear algebra backends. | C++ | ![Github stars](https://img.shields.io/github/stars/FrancoisCarouge/Kalman.svg)
 
 ### Python
 
